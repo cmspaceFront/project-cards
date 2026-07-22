@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "id": "project1",
+      "subtitleWord": "PROJECTS",
+      "titleLine1": "SPACE",
+      "titleLine2": "GOV",
+      "titleStackMode": "letters",
+      "hoverLine1": "Projects",
+      "hoverLine2": "",
+      "hoverDescription": "",
+      "hoverDescriptions": {
+        "uz": "",
+        "uz-Cyrl": "",
+        "ru": "",
+        "en": ""
+      },
+      "overlayColor": "#007641",
+      "overlayStrength": 72,
+      "titleColorTop": "#ffffff",
+      "titleColorBottom": "#738e76",
+      "cardGradient": "linear-gradient(180deg, rgba(0, 118, 65, 0.72) 0%, rgba(0, 118, 65, 0.4) 40%, rgba(0, 118, 65, 0.2) 100%)",
+      "titleGradient": "linear-gradient(180deg, #ffffff 0%, #738e76 100%)",
+      "mediaBackgroundPosition": "55% 42%",
+      "mediaScale": 1.5,
+      "mediaScaleHover": 1.64,
+      "soon": false,
+      "soonBlur": 6
+    }
+  ],
+  "portalAccessGroups": []
+}
