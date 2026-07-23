@@ -1,0 +1,26 @@
+{
+  "name": "projects-sidebar",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "UzSpace",
+  "description": "Вертикальная колонка карточек Projects: статичная Home + настраиваемые карточки (как в виджете projects).",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "canCrossLayoutBoundary": true
+  },
+  "settingPanel": {
+    "title": "Projects Sidebar",
+    "size": "small"
+  },
+  "translatedLocales": [
+    "en",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 120,
+    "height": 720
+  }
+}
